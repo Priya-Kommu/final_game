@@ -202,9 +202,11 @@ Take a second to think about all the information you have. Can you make an accus
 ->accusation
 
 ===accusation===
-*Click here to see the full solution!
-    
-
+*[Click here to see the full solution!]
+    -> full_solution
+===full_solution===
+SOLUTION
+First year, Posioned O'Hill Food, Amphitheatre
 
 
 -> END
